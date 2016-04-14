@@ -5,5 +5,8 @@
 
 #### Post-it :
 * Rose (Killer Feature) :
-* Orange (V1) : "Système de référencement des lieux où trouver la boisson au meilleur prix","Points de fidélité pour acceder aux boissons préférées de personnes qui ne sont pas dans tes amis FB"
+* Orange (V1) :
+Référencer les boissons les plus populaires de notre entourage.
+Proposer des boissons aux amis en fonction des infos disponibles.
+Système de référencement des lieux où trouver la boisson au meilleur prix.
 * Jaune (V2) :
